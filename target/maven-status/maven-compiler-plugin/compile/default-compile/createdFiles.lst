@@ -1,0 +1,8 @@
+com/projeto/model/MatriculaItem.class
+com/projeto/service/GestaoMatriculas.class
+com/projeto/controller/CadastroMatriculaBean.class
+com/projeto/model/Matricula.class
+com/projeto/util/EntityManagerProducer.class
+com/projeto/util/TransacionalInterceptor.class
+com/projeto/repository/MatriculasRepository.class
+com/projeto/util/Transacional.class

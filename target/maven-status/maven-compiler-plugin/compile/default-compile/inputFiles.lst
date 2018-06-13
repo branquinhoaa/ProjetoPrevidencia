@@ -1,0 +1,8 @@
+/home/matheus/ProjetosIFG/ProjetoPacto/Projeto/src/main/java/com/projeto/util/Transacional.java
+/home/matheus/ProjetosIFG/ProjetoPacto/Projeto/src/main/java/com/projeto/model/Matricula.java
+/home/matheus/ProjetosIFG/ProjetoPacto/Projeto/src/main/java/com/projeto/util/TransacionalInterceptor.java
+/home/matheus/ProjetosIFG/ProjetoPacto/Projeto/src/main/java/com/projeto/controller/CadastroMatriculaBean.java
+/home/matheus/ProjetosIFG/ProjetoPacto/Projeto/src/main/java/com/projeto/model/MatriculaItem.java
+/home/matheus/ProjetosIFG/ProjetoPacto/Projeto/src/main/java/com/projeto/repository/MatriculasRepository.java
+/home/matheus/ProjetosIFG/ProjetoPacto/Projeto/src/main/java/com/projeto/util/EntityManagerProducer.java
+/home/matheus/ProjetosIFG/ProjetoPacto/Projeto/src/main/java/com/projeto/service/GestaoMatriculas.java
